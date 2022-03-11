@@ -6,7 +6,7 @@
 Keras == 2.2.4
 
 # ML_vc_test1.py: 51
-Pillow == 5.3.0
+Pillow == 9.0.1
 
 # ML_vc_test.py: 30
 matplotlib == 3.0.2
