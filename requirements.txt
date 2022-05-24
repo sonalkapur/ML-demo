@@ -19,7 +19,7 @@ numpy == 1.15.4
 scikit_learn == 0.20.1
 
 # ML_vc_test1.py: 34,50,67
-tensorflow == 1.13.1
+tensorflow == 2.6.4
 
 # ML_vc_test.py: 7
 # ML_vc_test1.py: 7,44
