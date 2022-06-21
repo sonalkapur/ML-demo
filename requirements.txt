@@ -13,7 +13,7 @@ matplotlib == 3.0.2
 
 # ML_vc_test.py: 29
 # ML_vc_test1.py: 33
-numpy == 1.15.4
+numpy == 1.22.0
 
 # ML_vc_test.py: 142,143,144,145,165,166
 scikit_learn == 0.20.1
